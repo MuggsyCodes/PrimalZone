@@ -27,7 +27,7 @@ export default function Home() {
       <FAQs />
       <CustomerReviews />
       <SocialMedia />
-      <Chatbot />
+      {/* <Chatbot /> */}
     </main>
   );
 }
